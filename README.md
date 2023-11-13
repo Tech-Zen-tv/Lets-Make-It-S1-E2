@@ -1,4 +1,4 @@
-# Lets-Make-It-S1-E2
+# Lets Make It S1 E2
 Example code from Let's Make It Season 1 Episode 2
 
 ## File in thi Repo:
